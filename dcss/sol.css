@@ -1,0 +1,13 @@
+html {
+  background-color: #E6E6FA;
+}
+ 
+h1{
+  color: #dc143c;
+    margin-bottom: 30px;
+    padding-top: 20px;
+    text-align: center;
+    background-color: white;
+    font-family: "Latin Modern Roman 10";
+    font-style:oblique;
+}
