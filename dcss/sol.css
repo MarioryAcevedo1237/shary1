@@ -1,22 +1,51 @@
-html {
-  background-color: #ffe4c4;
-}
- 
-h1{
-  color: #dc143c;
-    font-family: "Latin Modern Roman 10";
-    font-style:oblique;
-}
+html 
+
 p {
-  color: blue;
+  color: purple;
+  text-align: center;
+  transform-style: initial;
+  font-size: 25px;
 }
 .blue {
   color: blue;
+  font-size: 18px;
 }
 #name{
   color: blue;
 }
 div, 
 .blue{
-  color: blue;
+  color: darkcyan;
 }
+/*all h1  */
+h1{
+  background: -webkit-linear-gradient(fuchsia, pink);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+     color: tomato;
+  text-align: center;
+    font-family: cursive;
+    font-size: 300%;
+
+
+}
+/*all with class="highlight" */
+.highlight{
+  font-size: 24px;
+  font-weight: initial;
+  font-style: italic,;
+  background-color:bisque ;
+  opacity: .7;
+}
+span.classy {
+  background-color: lavender;
+  font-size: 16px;
+}
+/*all with id="mainPoint */
+#mainPoint{
+  font-size: 18px;
+  font-kerning: initial;
+  background-color: lightcyan;
+  opacity: .9;
+}
+
