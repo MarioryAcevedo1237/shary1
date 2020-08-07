@@ -1,13 +1,22 @@
 html {
-  background-color: #E6E6FA;
+  background-color: #ffe4c4;
 }
  
 h1{
   color: #dc143c;
-    margin-bottom: 30px;
-    padding-top: 20px;
-    text-align: center;
-    background-color: white;
     font-family: "Latin Modern Roman 10";
     font-style:oblique;
+}
+p {
+  color: blue;
+}
+.blue {
+  color: blue;
+}
+#name{
+  color: blue;
+}
+div, 
+.blue{
+  color: blue;
 }
